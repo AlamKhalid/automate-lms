@@ -1,4 +1,6 @@
-from selenium import webdriver
+# Do 'pip install selenium' through command prompt for downloading this module
+
+from selenium import webdriver    
 from selenium.webdriver.common.keys import Keys
 
 driver = webdriver.Chrome()
